@@ -192,6 +192,13 @@ public class BaseMod {
             EnchantmentMod.registerEnchantments(event);
         }
 
+        @SubscribeEvent
+        public static void clientSetup(EntityRenderersEvent.RegisterLayerDefinitions event)
+        {
+            event.registerLayerDefinition(MadCapModel.LAYER_LOCATION, MadCapModel::createBodyLayer);
+
+        }
+
     }
 }
 

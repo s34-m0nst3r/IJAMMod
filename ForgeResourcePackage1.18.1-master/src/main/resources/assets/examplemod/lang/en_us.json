@@ -40,5 +40,7 @@
   "item.examplemod.radball": "Rad Ball",
   "item.examplemod.farreachegg": "Far-Reach Egg",
   "item.examplemod.farreachblaster": "Far-Reach Blaster",
-  "enchantment.examplemod.radiation_aspect": "Radiation Aspect"
+  "enchantment.examplemod.radiation_aspect": "Radiation Aspect",
+  "entity.examplemod.madcap": "Madcap",
+  "item.examplemod.madcap_egg": "Madcap Spawn Egg"
 }

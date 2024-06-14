@@ -23,10 +23,12 @@ public class EntityMod {
         event.getRegistry().register(ScorchEntity.TYPE);
         event.getRegistry().register(FarreachBlasterEntity.TYPE);
         event.getRegistry().register(PortalEntity.TYPE);
+        event.getRegistry().register(MadCap.TYPE);
     }
     @SubscribeEvent
     public static void registerEntityEggs(final RegistryEvent.Register<Item> event) {
         event.getRegistry().register(ScorchEntity.EGG);
+        event.getRegistry().register(MadCap.EGG);
     }
     @SubscribeEvent
     public static void entityRenderers(final EntityRenderersEvent.RegisterRenderers event){
@@ -35,6 +37,7 @@ public class EntityMod {
         event.registerEntityRenderer(RadBallEntity.TYPE, (m) -> { return new ThrownItemRenderer<>(m, 1.0f, true);});
 
 
+        event.registerEntityRenderer(MadCap.TYPE, MadCapRendererFactory.INSTANCE);
         event.registerEntityRenderer(ScorchEntity.TYPE, ScorchRendererFactory.INSTANCE);
     }
 
@@ -43,6 +46,7 @@ public class EntityMod {
     @SubscribeEvent
     public static void onAttributeCreate(EntityAttributeCreationEvent event) {
         event.put(ScorchEntity.TYPE, ScorchEntity.createAttributes().build());
+        event.put(MadCap.TYPE, MadCap.createAttributes().build());
     }
 
 }
