@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "yy ",
+    "yz ",
+    " z "
+  ],
+  "key": {
+    "y": {
+      "item": "examplemod:iridiumingot"
+    },
+    "z": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "examplemod:iridiumaxe"
+  }
+}

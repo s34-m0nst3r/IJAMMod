@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "yxy",
+    " z ",
+    " z "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:nether_star"
+    },
+    "y": {
+      "item": "examplemod:iridiumcore"
+    },
+    "z": {
+    "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "examplemod:subspacestaff"
+  }
+}
+

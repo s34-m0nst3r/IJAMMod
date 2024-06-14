@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient":
+  {
+    "item": "examplemod:rawiridium"
+  },
+  "result": "examplemod:iridiumingot",
+  "experience": 9
+}

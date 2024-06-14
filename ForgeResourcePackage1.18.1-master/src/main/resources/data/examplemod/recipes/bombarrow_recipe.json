@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "examplemod:gelore"
+    }
+  ],
+  "result":
+  {
+    "item": "examplemod:bombarrow",
+    "count": 3
+  }
+}
+

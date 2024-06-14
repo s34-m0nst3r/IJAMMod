@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    "yrz",
+    " w "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:beef"
+    },
+    "y": {
+      "item": "minecraft:chicken"
+    },
+    "z": {
+      "item": "minecraft:porkchop"
+    },
+    "w": {
+      "item": "minecraft:mutton"
+    },
+    "r": {
+      "item": "examplemod:iridiumcore"
+    }
+  },
+  "result": {
+    "item": "examplemod:infinitemeatball"
+  }
+}

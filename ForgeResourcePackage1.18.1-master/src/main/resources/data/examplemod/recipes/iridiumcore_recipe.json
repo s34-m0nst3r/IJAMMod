@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xyx",
+    "xzx",
+    " y "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "y": {
+      "item": "minecraft:iron_ingot"
+    },
+    "z": {
+      "item": "examplemod:iridiumingot"
+    }
+  },
+  "result": {
+    "item": "examplemod:iridiumcore"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "examplemod:iridiumingot"
+    }
+  ],
+  "result":
+  {
+    "item": "examplemod:radiationpie",
+    "count": 3
+  }
+}
+

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [ "examplemod:geloreblock","examplemod:iridiumoreblock"
+    ,"examplemod:deepslategeloreblock","examplemod:deepslateiridiumoreblock"
+    ,"examplemod:gelspringblock","examplemod:blockofiridium","examplemod:blockofgel"
+  ,"examplemod:brimstone","examplemod:brimslate","examplemod:hotcoalsblock"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "yxy",
+    "xzx",
+    "yxy"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:iron_ingot"
+    },
+    "y": {
+      "item": "examplemod:gelore"
+    },
+    "z": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "result": {
+    "item": "examplemod:gelspringblock"
+  }
+}

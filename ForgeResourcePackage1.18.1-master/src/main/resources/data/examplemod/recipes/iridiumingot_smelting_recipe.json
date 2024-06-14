@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient":
+  {
+    "item": "examplemod:rawiridium"
+  },
+  "result": "examplemod:iridiumingot",
+  "experience": 9
+}

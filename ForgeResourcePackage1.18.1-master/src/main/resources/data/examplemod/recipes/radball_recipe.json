@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xzx",
+    "yyy"
+  ],
+  "key": {
+    "x": {
+      "item": "examplemod:iridiumingot"
+    },
+    "y": {
+      "item": "minecraft:iron_ingot"
+    },
+    "z": {
+      "item": "examplemod:iridiumcore"
+    }
+  },
+  "result": {
+    "item": "examplemod:radball",
+    "count": 5
+  }
+}

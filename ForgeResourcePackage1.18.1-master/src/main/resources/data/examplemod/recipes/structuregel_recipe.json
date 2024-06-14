@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    "xxx",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "examplemod:gelore"
+    }
+  },
+  "result": {
+    "item": "examplemod:structuregel"
+  }
+}

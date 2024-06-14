@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bab",
+    " z ",
+    " x "
+  ],
+  "key": {
+    "b": {
+      "item": "examplemod:iridiumingot"
+    },
+    "a": {
+      "item": "examplemod:iridiumcore"
+    },
+    "x": {
+      "item": "minecraft:diamond"
+    },
+    "z": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "examplemod:mace"
+  }
+}

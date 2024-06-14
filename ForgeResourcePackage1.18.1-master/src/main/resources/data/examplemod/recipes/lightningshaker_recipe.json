@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "yzy",
+    " z "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:dragon_breath"
+    },
+    "y": {
+      "item": "examplemod:iridiumcore"
+    },
+    "z": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "examplemod:lightningshaker"
+  }
+}

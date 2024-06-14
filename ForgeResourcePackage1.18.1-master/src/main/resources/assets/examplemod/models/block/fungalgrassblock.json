@@ -1,0 +1,7 @@
+{"parent": "minecraft:block/bedrock","textures": { "up": "examplemod:block/fungalgrassblock_up",
+ "down": "examplemod:block/fungalgrassblock_down",
+ "south": "examplemod:block/fungalgrassblock_south",
+ "north": "examplemod:block/fungalgrassblock_north",
+ "west": "examplemod:block/fungalgrassblock_west",
+ "east": "examplemod:block/fungalgrassblock_east"
+}}
